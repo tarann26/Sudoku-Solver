@@ -67,7 +67,6 @@ The `SudokuSolver` class is a standalone backtracking solver that solves any val
 2. Install the required Python packages:
     ```bash
     pip install pygame
-    pip install tkinter
     ```
 
 ## Usage
